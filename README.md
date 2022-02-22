@@ -1,4 +1,5 @@
 ## online-cake（Vue 3 + Vite）
+![](https://gitee.com/spencer1228/blog-img-address/raw/master/img/image-20220222102527836.png)
 
 完整代码可以参考地址：  https://github.com/Masker7/online-mall-cake
 最开始没有采用github的前后端分离仓库的管理方式，带来了部分的问题。目前前台代码已经迁移到此。
@@ -35,22 +36,4 @@
 - 前后台一体化的身份校验系统。
 - 基于composition API 的公共组件分页器的封装。
 
-## 目前后台服务关闭，可以参考这部分内容
-### 界面
 
-#### 主页
-
-
-![image-20220222102837934](https://gitee.com/spencer1228/blog-img-address/raw/master/img/image-20220222102837934.png)
-
-![](https://gitee.com/spencer1228/blog-img-address/raw/master/img/image-20220222102527836.png)
-
-![image-20220222102546258](https://gitee.com/spencer1228/blog-img-address/raw/master/img/image-20220222102546258.png)
-
-![image-20220222102551046](https://gitee.com/spencer1228/blog-img-address/raw/master/img/image-20220222102551046.png)
-
-
-
-![image-20220222102600354](https://gitee.com/spencer1228/blog-img-address/raw/master/img/image-20220222102600354.png)
-
-![image-20220222102604971](https://gitee.com/spencer1228/blog-img-address/raw/master/img/image-20220222102604971.png)
